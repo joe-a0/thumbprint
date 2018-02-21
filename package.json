@@ -1,6 +1,6 @@
 {
   "name": "thumbprint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Certificate thumbprint calculator for Node.js",
   "main": "./lib/index.js",
   "repository": {
