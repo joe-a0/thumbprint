@@ -1,5 +1,5 @@
 {
-  "name": "thumbprint",
+  "name": "@auth0/thumbprint",
   "version": "0.0.2",
   "description": "Certificate thumbprint calculator for Node.js",
   "main": "./lib/index.js",
