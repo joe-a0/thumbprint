@@ -1,9 +1,9 @@
 Thumbprint
 ==========
 
-Certificate thumbprint calculator for Node.js.
+[![Build Status](https://travis-ci.org/auth0/thumbprint.svg?branch=master)](https://travis-ci.org/auth0/thumbprint)
 
-This is meant to be a transient fork of the _thumbprint_ package [until it supports Node 6](https://github.com/leandrob/thumbprint/pull/3).
+Certificate thumbprint calculator for Node 4, 6 and 8.
 
 ## Installation
 
@@ -12,6 +12,7 @@ This is meant to be a transient fork of the _thumbprint_ package [until it suppo
 ## Usage
 
 ```javascript
+const thumbprint = require('@auth0/thumbprint');
 
 var thumbprint = require('@auth0/thumbprint');
 
