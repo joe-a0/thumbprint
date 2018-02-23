@@ -12,6 +12,9 @@
     "Thumbprint"
   ],
   "author": "Leandro Boffi (lboffi@gmail.com)",
+  "contributors": [
+    {"name": "Auth0", "url": "https://auth0.com/"}
+  ],
   "license": "MIT",
   "readmeFilename": "README.md"
 }
