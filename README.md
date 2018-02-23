@@ -12,8 +12,6 @@ Certificate thumbprint calculator for Node 4, 6 and 8.
 ## Usage
 
 ```javascript
-const thumbprint = require('@auth0/thumbprint');
-
 var thumbprint = require('@auth0/thumbprint');
 
 var result = thumbprint.calculate(base64Certificate);
