@@ -3,7 +3,7 @@ Thumbprint
 
 [![Build Status](https://travis-ci.org/auth0/thumbprint.svg?branch=master)](https://travis-ci.org/auth0/thumbprint)
 
-Certificate thumbprint calculator for Node 4, 6 and 8.
+Certificate thumbprint calculator for Node 6+ (test suite requires 12+)
 
 ## Installation
 
